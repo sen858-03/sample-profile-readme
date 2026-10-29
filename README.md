@@ -11,8 +11,8 @@ _I am a Student in Cyber Security in BBA at UTSA._
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Business](https://img.shields.io/badge/Business-0A66C2?logo=briefcase&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
-## 🔗 Links
+## 🔗 Links 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/sen858-03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nhi-le-835375436)
 
-_"Life isn't about finding yourself. Life is about creating yourself.— George Bernard Shaw"_
+_"Life isn't about finding yourself. Life is about creating yourself." — George Bernard Shaw_
